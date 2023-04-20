@@ -7,11 +7,11 @@ public static void main(String[] args) {
 
 //1. String Variables with the names
 
- String firstName = "Kianna";
+ String firstName = "Mary";
 
  String middleName = "Elle";
 
- String lastName ="Desilva";
+ String lastName ="Marlene";
 
 
 //2. Use charAt so the code can grab the initials from the strings
